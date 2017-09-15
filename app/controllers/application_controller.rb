@@ -3,6 +3,6 @@ class ApplicationController < ActionController::Base
 
 
 def hello
-  render html: "Hello bitches"
+  render html: "<center><b>Suprise Motherfucker</b></center>"
 end
 end
